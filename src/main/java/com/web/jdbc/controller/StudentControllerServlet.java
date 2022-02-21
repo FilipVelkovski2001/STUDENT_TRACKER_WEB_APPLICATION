@@ -85,7 +85,6 @@ public class StudentControllerServlet extends HttpServlet {
 			}
 			
 			
-			// List the students in MVC fashion
 		    
 		    
 		} catch(Exception e) {
