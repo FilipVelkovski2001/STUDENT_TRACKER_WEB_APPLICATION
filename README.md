@@ -1,4 +1,4 @@
-# Welcome to my first web app using Servlet, JSP, and JDBC
+# My first web app using Servlet, JSP, and JDBC
 
   Here is the homepage where we can view the students:
 
